@@ -1,3 +1,3 @@
 # Tiny calculator
 
-A small calcuator library with no dependencies.
+A small calculator library with no dependencies.
